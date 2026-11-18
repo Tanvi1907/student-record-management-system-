@@ -1,0 +1,11 @@
+
+# Database files - keep private
+*.sql
+SQL File/
+
+# Database configuration
+studentrecordms/includes/dbconnection.php
+
+# Temporary files
+*.log
+*.tmp
